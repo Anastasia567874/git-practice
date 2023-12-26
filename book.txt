@@ -1,4 +1,4 @@
-name of book
+name of book, new name of book
 
 par1
 
